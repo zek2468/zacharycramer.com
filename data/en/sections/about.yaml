@@ -1,0 +1,55 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Enterprise Support Analyst 1
+# your company information
+company:
+  name: Franklin County Data Center
+  url: "https://datacenter.franklincountyohio.gov/"
+
+# your resume. this file path should be relative to you "static" directory
+
+# a summary about you
+summary: 'I am passionate about Informational Technology. Best way do describe me is <i>"<u>a jack of all trades master of none</u>"</i>. </br>I find drive in learning and knowing what I am doing has a postive impact on my community.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "zacharycramer01@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/zachary-cramer-6a021a271/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: CompTIA A+ ce Certification
+  url: "https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1"
+  badge: "https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"
+- type: certification
+  name: ITIL 4 ® Foundation
+  url: "https://www.credly.com/org/peoplecert/badge/itil-4-foundation"
+  badge: "https://images.credly.com/size/340x340/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png"
+
+#- type: soft-skill-indicator
+#  name: Place holder
+#  percentage: 100
+#  color: "#FF0000"
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+#   color: "#00adb5"

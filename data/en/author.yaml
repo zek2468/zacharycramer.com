@@ -1,0 +1,14 @@
+# some information about you
+name: "Zachary Cramer"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "I am"
+#image: "images/IMG_0372.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ZacharyCramer01@gmail.com"
+
+# some summary about what you do
+summary:
+  - I love home networking and servers
+  - I love 3D printing
+  - I love S.T.E.M

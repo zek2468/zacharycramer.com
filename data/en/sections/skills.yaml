@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+  # Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Cisco L2 and L3 network management
+  summary: "Capable of creating and managing Cisco L2 and L3 networks"
+  url: https://www.cisco.com/
+- name: Cisco Meraki
+  summary: "Capable of creating and managing Cisco Meraki systems"
+  url: https://meraki.cisco.com/
+- name: Cisco Umbrella 
+  summary: "Capable of creating and managing Cisco Umbrella DNS systems"
+  url: https://meraki.cisco.com/
+- name: Google ChromeOS/ChromeOS Flex support
+  summary: "Capable of supporting ChromeOS and ChromeOS Flex devices"
+  url: https://www.google.com/chromebook/chrome-os/
+- name: Google Workspace
+  summary: "Capable of creating and maintaining Google Workspace"
+  url: https://workspace.google.com/
+- name: Microsoft Active Directory
+  summary: "Capable of creating and maintaining on-premises Microsoft Active Directory"
+- name: Microsoft Azure
+  summary: "Capable of creating and maintaining on-cloud Microsoft Azure"
+- name: VMware vCenter
+  summary: "Capable of creating and maintaining muliple virtualization servers"

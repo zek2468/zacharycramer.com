@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+degrees:
+- name: B.S. / Information Technology
+  icon: fa-computer
+  institution:
+    name: Western Governors University
+  custonSections: #(optional)
+    - name: Western Governors University is graded by competency pass, fail system and does not have a GPA
+    - name: In progress. Degree anticipated Fall 2025
+- name: IT Specialist
+  icon: fa-computer
+  institution:
+    name: Central Ohio Technical College
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.2
+    outOf: 4.0
+  custonSections: #(optional)
+    - name: Introductory coursework. Credits transferred to Western Governors University in Fall 2022

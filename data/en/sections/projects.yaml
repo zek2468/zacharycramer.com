@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+#buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Personal
+  filter: "personal"
+
+#Projects
+projects:
+- name: Cisco Meraki Wi-Fi rollout
+  role: Planning and Rollout
+  timeline: "Jan 2022 - Nov 2022"
+  summary: Planned and deployed a new Cisco Meraki wifi system for Lakewood Local Schools.
+  tags: ["professional"]
+
+- name: Network Upgrades
+  role: Planning and Rollout
+  timeline: "Oct 2021 - Aug 2022"
+  summary: Planned and deployed of new cisco switch for Lakewood Local Schools.
+  tags: ["professional"]
+
+- name: Complete technical closets overhaul
+  role: Planning and Rollout
+  timeline: "Oct 2021 - Aug 2022"
+  summary: Cleaned up all technical closets in six buildings at Lakewood Local Schools. <br><br><i>(Cable mangment, Remove unused port, UPS replacemnet)</i>
+  tags: ["professional"]
+
+- name: Device enrollement into intune
+  role: Planning and Rollout
+  timeline: "Mar 2023 - Present"
+  summary: Enrolling county devices into intune leveraging Apple Business Manager and Samsung Knox.
+  tags: ["professional"]
+
+#personal  
+- name: 3D Printing
+  summary: Creating and 3D printing models while troubleshooting issues.
+  tags: ["personal"]
+
+- name: Ubuntu server
+  summary: Createing and managing Ubuntu server
+  tags: ["personal"]
+
+- name: Unifi
+  summary: Createing and managing a home network leveraging Unifi
+  tags: ["personal"]
+
+- name: Proxmox Virtual Environment
+  summary: Createing and managing Virtual Environment to run various programs
+  tags: ["personal"]
+
+- name: Synology
+  summary: Createing and managing a Synology Network Atached System (NAS)
+  tags: ["personal"]
+
+- name: Docker
+  summary: Createing and managing containers that virulize applications
+  tags: ["personal"]

@@ -1,0 +1,67 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+# Your experiences
+experiences:
+- company:
+    name: Franklin County Data Center
+    url: "https://datacenter.franklincountyohio.gov/"
+    location: Columbus, Ohio
+    # company overview
+    overview: Franklin County Data Center buys, builds, deploys, and supports secure technology solutions for cloud, network, server virtualization, team collaboration, and digital services needs for all Franklin County partners.
+  positions:
+  - designation: Enterprise Support Analyst 2
+    start: May 2024
+  - designation: Enterprise Support Analyst 1
+    start: Jan 2023
+    end: April 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Provide Tier 1 support for more than 50 agencies, excelling in fostering client trust and satisfaction through empathetic communication and high-quality service delivery. 
+    - Contacted vendors on behalf of agencies for both support and inquiries. 
+    - Administered user accounts in Active Directory and Entra ID within a hybrid environment, ensuring secure and efficient access management. 
+    - Developed and updated documentation for internal and public knowledge base articles. 
+    - Imaging and deployment of various computer systems. 
+- company:
+    name: Lakewood Local Schools
+    url: "https://www.lakewoodlocal.k12.oh.us/"
+    location: Hebron, Ohio
+    # company overview
+  positions:
+  - designation: Desktop & Endpoint Technician
+    start: Sept 2021
+    end: Jan 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Provide Tier 1 and Tier 2 support for 1,700 students and 250 staff, focusing on building trust through empathy and quality of service. 
+    - First point of contact for Windows and ChromeOS client incidents and requests. 
+    - Handle routine administration of Windows Server, Active Directory, Google Workspace, and Cisco-based network infrastructure to address user requests and resolve incidents. 
+    - Manage initial triage and troubleshooting of tickets in Zendesk. Update customers in person and in writing and escalate issues as needed. 
+    - Respond to problems with Ricoh and Canon multi-function copiers and the UniFLOW Online print management service. 
+    - Provide Tier 1 training for Lakewood HS student Tech Team. 
+  - designation: Senior I.T intern
+    start: May 2019
+    end: Sept 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Provide Tier 1 support for 1,700 students and 250 staff, focusing on building trust through empathy and quality of service. 
+    - First point of contact for Windows and ChromeOS client incidents and requests. 
+    - Manage initial triage and troubleshooting of tickets in Zendesk. Update customers in person and in writing and escalate issues as needed. 
+  - designation: Lakewood HS student tech team
+    start: Aug 2017
+    end: May 2019
+    responsibilities:
+    - Provide Tier 1 support for all high school students and staff
+    - First point of contact for Chromebook repairs and troubleshooting 
+    - Manage initial triage and troubleshooting of Chromebook tickets in Zendesk.

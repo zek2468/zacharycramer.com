@@ -9,6 +9,14 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Newark City Schools
+    url: "https://www.newarkcityschools.org/"
+    location: Newark, Ohio
+    # company overview
+  positions:
+  - designation: Assistant Director of Information Technology
+    start: May 31st 2024
+- company:
     name: Franklin County Data Center
     url: "https://datacenter.franklincountyohio.gov/"
     location: Columbus, Ohio
@@ -16,10 +24,11 @@ experiences:
     overview: Franklin County Data Center buys, builds, deploys, and supports secure technology solutions for cloud, network, server virtualization, team collaboration, and digital services needs for all Franklin County partners.
   positions:
   - designation: Enterprise Support Analyst 2
-    start: May 2024
+    start: May 6th 2024
+    end: May 30th 2024
   - designation: Enterprise Support Analyst 1
-    start: Jan 2023
-    end: April 2024
+    start: Jan 23rd 2023
+    end: May 5th 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -35,9 +44,9 @@ experiences:
     location: Hebron, Ohio
     # company overview
   positions:
-  - designation: Desktop & Endpoint Technician
-    start: Sept 2021
-    end: Jan 2023
+  - designation: Desktop and Endpoint Technician
+    start: Sept 13th 2021
+    end: Jan 20th 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -48,9 +57,9 @@ experiences:
     - Manage initial triage and troubleshooting of tickets in Zendesk. Update customers in person and in writing and escalate issues as needed. 
     - Respond to problems with Ricoh and Canon multi-function copiers and the UniFLOW Online print management service. 
     - Provide Tier 1 training for Lakewood HS student Tech Team. 
-  - designation: Senior I.T intern
-    start: May 2019
-    end: Sept 2021
+  - designation: Senior Information Technology Intern
+    start: May 13th 2019
+    end: Sept 12th 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -58,9 +67,9 @@ experiences:
     - Provide Tier 1 support for 1,700 students and 250 staff, focusing on building trust through empathy and quality of service. 
     - First point of contact for Windows and ChromeOS client incidents and requests. 
     - Manage initial triage and troubleshooting of tickets in Zendesk. Update customers in person and in writing and escalate issues as needed. 
-  - designation: Lakewood HS student tech team
-    start: Aug 2017
-    end: May 2019
+  - designation: Lakewood High School Student Tech Team
+    start: Aug 1st 2017
+    end: May 12th 2019
     responsibilities:
     - Provide Tier 1 support for all high school students and staff
     - First point of contact for Chromebook repairs and troubleshooting 

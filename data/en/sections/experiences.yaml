@@ -16,6 +16,11 @@ experiences:
   positions:
   - designation: Assistant Director of Information Technology
     start: May 31st 2024
+    responsibilities:
+    - Createing and Maintaining MDM solution for Apple and Window Devices.
+    - Createing a new UX for Staff.
+    - Planning and Maintaining a district wide emergency panic button system.
+    - Createing, Planning, and Maintaining, other various I.T. projects for Newark City Schools.
 - company:
     name: Franklin County Data Center
     url: "https://datacenter.franklincountyohio.gov/"
@@ -37,7 +42,8 @@ experiences:
     - Contacted vendors on behalf of agencies for both support and inquiries. 
     - Administered user accounts in Active Directory and Entra ID within a hybrid environment, ensuring secure and efficient access management. 
     - Developed and updated documentation for internal and public knowledge base articles. 
-    - Imaging and deployment of various computer systems. 
+    - Imaging and deployment of various computer systems.
+    - Creating and Maintaining a MDM solution leveraging intune
 - company:
     name: Lakewood Local Schools
     url: "https://www.lakewoodlocal.k12.oh.us/"

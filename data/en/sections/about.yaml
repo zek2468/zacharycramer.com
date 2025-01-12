@@ -8,16 +8,16 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Enterprise Support Analyst 1
+designation: Assistant Information Technology Director
 # your company information
 company:
-  name: Franklin County Data Center
-  url: "https://datacenter.franklincountyohio.gov/"
+  name: Newark City Schools, Ohio
+  url: "https://www.newarkcityschools.org/"
 
 # your resume. this file path should be relative to you "static" directory
 
 # a summary about you
-summary: 'I am passionate about Informational Technology. Best way do describe me is <i>"<u>a jack of all trades master of none</u>"</i>. </br>I find drive in learning and knowing what I am doing has a postive impact on my community.'
+summary: 'I am passionate about Informational Technology. Best way to describe me is <i>"<u>a jack of all trades master of none</u>"</i>. </br>I find drive in learning and knowing what I am doing has a postive impact on my community.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
